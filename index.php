@@ -5,6 +5,10 @@
 <title>..::Test LOGIN::..</title>
 </head>
 <body >
+<?php
+#test 1
+#test 2
+?>
   <form name="form1" enctype="multipart/form-data" method="POST" action="check_login.php">
   Login<br>
   <table border="1" style="width: 300px">
